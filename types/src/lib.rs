@@ -1,3 +1,5 @@
+#![no_std]
+
 //! Macros allowing to create constants for each available fixed-point type.
 
 // 8-bit signed
